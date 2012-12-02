@@ -1,0 +1,385 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ap",
+				"app_secret"
+			],
+			[
+				"sho",
+				"should_not"
+			],
+			[
+				"app",
+				"app_secret"
+			],
+			[
+				"befo",
+				"before_app_secret"
+			],
+			[
+				"noti",
+				"notification_manager"
+			],
+			[
+				"va",
+				"valid_attribute"
+			],
+			[
+				"be",
+				"belongs_to"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/Gemfile",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/oauth/app/models/oauth_client/twitter.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/oauth/app/models/oauth_client/base.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/config/database.yml",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/oauth/app/models/oauth_client/facebook.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/notification/app/helpers/notification_managers_helper.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/oauth/app/helpers/oauth_consumers_helper.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/oauth/app/models/oauth_consumer.rb",
+		"/Users/NoguchiOsamu/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/oauth/app/controllers/oauth_controller.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/notification/spec/helpers/notification_managers_helper_spec.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/notification/spec/models/notification_manager_spec.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/notification/app/models/notification_manager.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/notification/app/models/notification_message.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/notification/spec/controllers/notification_managers_controller_spec.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/notification/spec/factories/notification_managers.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/notification/app/controllers/notification_managers_controller.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/notification/spec/spec_helper.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/lib/tasks/plugin_rspec.rake",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/vendor/bundle/ruby/1.9.1/gems/simplecov-0.7.1/features/config_coverage_dir.feature",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/vendor/bundle/ruby/1.9.1/gems/simplecov-0.7.1/lib/simplecov.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/vendor/bundle/ruby/1.9.1/gems/rspec-rails-2.12.0/spec/rspec/rails/mocks/mock_model_spec.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/notification/spec/factories/enabled_modules.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/ahub/app/models/ahub_manager.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/ahub/app/controllers/ahub_managers_controller.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/ahub/Gemfile",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/ahub/spec/spec_helper.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/spec/spec_helper.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/a_hub/app/controllers/a_hub_managers_controller.rb",
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/a_hub/app/models/a hub_manager.rb",
+		"/Users/NoguchiOsamu/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/vendor/bundle/ruby/1.9.1/gems/simplecov-0.7.1"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"coverage_dir",
+			"coverage",
+			"simple",
+			"update",
+			"leng",
+			"FactoryGirl.build",
+			"\"},",
+			"false"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"FactoryGirl.create"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"notifihe",
+				"plugins/notification/app/helpers/notification_managers_helper.rb"
+			],
+			[
+				"oauthconsuhe",
+				"plugins/oauth/app/helpers/oauth_consumers_helper.rb"
+			],
+			[
+				"databse",
+				"config/database.yml"
+			],
+			[
+				"base",
+				"plugins/oauth/app/models/oauth_client/base.rb"
+			],
+			[
+				"oauthconsu",
+				"plugins/oauth/app/models/oauth_consumer.rb"
+			],
+			[
+				"twitt",
+				"plugins/oauth/app/models/oauth_client/twitter.rb"
+			],
+			[
+				"face",
+				"plugins/oauth/app/models/oauth_client/facebook.rb"
+			],
+			[
+				"oau",
+				"plugins/oauth/app/controllers/oauth_controller.rb"
+			],
+			[
+				"twit",
+				"plugins/oauth/app/models/oauth_client/twitter.rb"
+			],
+			[
+				"notihespe",
+				"plugins/notification/spec/helpers/notification_managers_helper_spec.rb"
+			],
+			[
+				"notihe",
+				"plugins/notification/app/helpers/notification_managers_helper.rb"
+			],
+			[
+				"notihelp",
+				"plugins/notification/app/helpers/notification_managers_helper.rb"
+			],
+			[
+				"noticontspe",
+				"plugins/notification/spec/controllers/notification_managers_controller_spec.rb"
+			],
+			[
+				"notimanahel",
+				"plugins/notification/spec/helpers/notification_managers_helper_spec.rb"
+			],
+			[
+				"simple",
+				"vendor/bundle/ruby/1.9.1/gems/simplecov-0.7.1/lib/simplecov.rb"
+			],
+			[
+				"spec",
+				"plugins/notification/spec/spec_helper.rb"
+			],
+			[
+				"plug",
+				"lib/tasks/plugin_rspec.rake"
+			],
+			[
+				"noticon",
+				"plugins/notification/app/controllers/notification_managers_controller.rb"
+			],
+			[
+				"notification_managers",
+				"plugins/notification/spec/factories/notification_managers.rb"
+			],
+			[
+				"noticontsp",
+				"plugins/notification/spec/controllers/notification_managers_controller_spec.rb"
+			],
+			[
+				"notimessa",
+				"plugins/notification/app/models/notification_message.rb"
+			],
+			[
+				"modelspe",
+				"vendor/bundle/ruby/1.9.1/gems/rspec-rails-2.12.0/spec/rspec/rails/mocks/mock_model_spec.rb"
+			],
+			[
+				"oautcon",
+				"plugins/oauth/app/models/oauth_consumer.rb"
+			],
+			[
+				"noti",
+				"plugins/notification/app/models/notification_message.rb"
+			],
+			[
+				"notima",
+				"plugins/notification/app/models/notification_manager.rb"
+			],
+			[
+				"notimanaspe",
+				"plugins/notification/spec/models/notification_manager_spec.rb"
+			],
+			[
+				"oauth_",
+				"plugins/oauth/app/controllers/oauth_controller.rb"
+			],
+			[
+				"notihelspe",
+				"plugins/notification/spec/helpers/notification_managers_helper_spec.rb"
+			],
+			[
+				"enabled_module",
+				"plugins/notification/spec/factories/enabled_modules.rb"
+			],
+			[
+				"notification_mana",
+				"plugins/notification/spec/factories/notification_managers.rb"
+			],
+			[
+				"notifimanaspe",
+				"plugins/notification/spec/models/notification_manager_spec.rb"
+			],
+			[
+				"notificont",
+				"plugins/notification/app/controllers/notification_managers_controller.rb"
+			],
+			[
+				"notisp",
+				"plugins/notification/spec/controllers/notification_managers_controller_spec.rb"
+			],
+			[
+				"gemfile",
+				"plugins/ahub/Gemfile"
+			],
+			[
+				"ahub",
+				"plugins/ahub/app/controllers/ahub_managers_controller.rb"
+			],
+			[
+				"ahu",
+				"plugins/ahub/app/models/ahub_manager.rb"
+			],
+			[
+				"a_hub_ma",
+				"plugins/a_hub/app/models/a hub_manager.rb"
+			],
+			[
+				"a_",
+				"plugins/a_hub/app/controllers/a_hub_managers_controller.rb"
+			],
+			[
+				"notifica",
+				"plugins/notification/app/models/notification_manager.rb"
+			],
+			[
+				"monito",
+				"plugins/monitor/app/models/monitor_manager.rb"
+			],
+			[
+				"notificatio",
+				"plugins/notification/app/models/notification_manager.rb"
+			],
+			[
+				"notifi",
+				"plugins/notification/app/models/notification_manager.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true
+}
