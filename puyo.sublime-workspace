@@ -72,6 +72,7 @@
 	},
 	"file_history":
 	[
+		"/Users/NoguchiOsamu/Dropbox/ruby_farm/puyopuyo/puyopuyo.rb",
 		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/Gemfile",
 		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/oauth/app/models/oauth_client/twitter.rb",
 		"/Users/NoguchiOsamu/Dropbox/ruby_farm/redmine/plugins/oauth/app/models/oauth_client/base.rb",
@@ -121,6 +122,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"INDENT",
 			"coverage_dir",
 			"coverage",
 			"simple",
@@ -193,6 +195,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"puyo",
+				"puyopuyo.rb"
+			],
 			[
 				"gem",
 				"Gemfile"
